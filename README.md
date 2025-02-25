@@ -37,7 +37,6 @@ Cook&Save est une application mobile interactive qui simplifie l'accès aux rece
 
 ### 📌 Découverte de l'application 
 | In1 | In2 | In3 |
-|-----|-----|-----|
 | <img src="images/Description1.png" width="150"> | <img src="images/Description2.png" width="150"> | <img src="images/Description3.png" width="150"> |
 
 ### 🔑 Connexion et Enregistrement
@@ -68,7 +67,8 @@ Cook&Save est une application mobile interactive qui simplifie l'accès aux rece
 ---
 
 ## 🎥 Vidéo de Présentation
-[![Voir la vidéo](images/video-thumbnail.png)](https://drive.google.com/file/d/1GldkgduyCsms0uyCwzus27wffzp5_uOQ/view?usp=sharing)
+🎥 [Voir la vidéo de présentation - Cliquez ici -]
+(https://drive.google.com/file/d/1GldkgduyCsms0uyCwzus27wffzp5_uOQ/view?usp=sharing)
 
 ---
 
